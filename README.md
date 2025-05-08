@@ -29,8 +29,8 @@ This repository was created to:
 ## 💡 Tools Used
 
 - PostgreSQL / MySQL / SQLite (depending on the project)
-- DB visualization tools like DBeaver or pgAdmin
-- Public datasets (e.g., Kaggle, data.gov)
+- Database IDEs: DBeaver
+- Public datasets (e.g., Kaggle, data.gov, dataquest.io)
 
 ## 📄 License
 
